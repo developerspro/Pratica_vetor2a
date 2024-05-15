@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pratica_vetor", "pratica_vetor\pratica_vetor.csproj", "{E21E17C8-8666-450B-A3EA-AE1A52B1993E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E21E17C8-8666-450B-A3EA-AE1A52B1993E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21E17C8-8666-450B-A3EA-AE1A52B1993E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21E17C8-8666-450B-A3EA-AE1A52B1993E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21E17C8-8666-450B-A3EA-AE1A52B1993E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB112FB9-2711-4630-977D-BD94A81E5A84}
+	EndGlobalSection
+EndGlobal
