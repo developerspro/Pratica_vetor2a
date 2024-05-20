@@ -1,0 +1,7 @@
+C:\Users\mathe\Pratica_vetor\pratica_vetor\bin\Debug\pratica_vetor.exe.config
+C:\Users\mathe\Pratica_vetor\pratica_vetor\bin\Debug\pratica_vetor.exe
+C:\Users\mathe\Pratica_vetor\pratica_vetor\bin\Debug\pratica_vetor.pdb
+C:\Users\mathe\Pratica_vetor\pratica_vetor\obj\Debug\pratica_vetor.csproj.AssemblyReference.cache
+C:\Users\mathe\Pratica_vetor\pratica_vetor\obj\Debug\pratica_vetor.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Pratica_vetor\pratica_vetor\obj\Debug\pratica_vetor.exe
+C:\Users\mathe\Pratica_vetor\pratica_vetor\obj\Debug\pratica_vetor.pdb
