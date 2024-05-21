@@ -12,37 +12,43 @@ namespace pratica_vetor
         {
 
             Cliente cliente = new Cliente();
-            Console.ForegroundColor = ConsoleColor.DarkRed;
             string opcao = "a";
             while (opcao.ToLower() != "q")
             {
-
-            Console.WriteLine("1. Cadastrar clientes\n" +
+                Console.Clear();
+                Console.WriteLine("1. Cadastrar clientes\n" +
                 "2. Mostrar fila\n" +
                 "3. Adicionar Cliente com Prioridade\n" +
                 "4. Atender cliente\nDigite  a Letra 'q' para sair.");
 
-        opcao = Console.ReadLine();
-            switch (opcao)
-            {
-                case "1":
-                    cliente.inserirCliente();
-                    break;
-                case "2":
-                    cliente.listarCliente();
-                    break;
-                case "3":
-                    cliente.incluirPrioritario();
-                    break;
-                case "4":
+                opcao = Console.ReadLine();
+                switch (opcao)
+                {
+                    case "1":
+                        Console.Clear();
+                        cliente.inserirCliente();
+                        Console.Clear();
+                        break;
+                    case "2":
+                        Console.Clear();
+                        cliente.listarCliente();
+                        Console.Clear();
+                        break;
+                    case "3":
+                        Console.Clear();
+                        cliente.incluirPrioritario();
+                        Console.Clear();
+                        break;
+                    case "4":
+                        Console.Clear();
                         cliente.AtenderCliente();
-                    break;
-                default:
-                    Console.WriteLine("Opção inválida. Tente novamente.");
-                    break;
-            }
+                        Console.Clear();
+                        break;
+                    default:
+                        Console.WriteLine("Escolha uma opção válida");
+                        break;
+                }
             }
         }
     }
 }
-    
